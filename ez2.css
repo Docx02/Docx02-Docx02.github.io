@@ -1,0 +1,60 @@
+body {
+  background-color: #000000;
+}
+
+h1 {
+  background-color: #109da1;
+  text-align: center;
+  font-size: 60px;
+}
+
+p {
+  text-align: center;
+  font-size: 40px;
+}
+
+#para1 {
+  text-align: center;
+  color: blue;
+}
+
+#para2 {
+  text-align: center;
+  color: white;
+}
+
+#para3 {
+  text-align: center;
+  color: red;
+}
+
+#para4 {
+  text-align: center;
+  color: rgb(19, 233, 19);
+}
+
+#para5{
+  text-align: center;
+  color: rgb(256, 0, 256);
+}
+
+
+.img{
+  width: 5000px;
+  border-radius: 10px;
+  }
+
+.img2{
+text-align: center; 
+}
+
+.img2 img{
+  width:500px;
+  border-radius: 10px;
+  }
+
+
+.imga img{
+	text-align: center;
+	width: 1000px;
+}

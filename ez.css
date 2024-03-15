@@ -1,0 +1,40 @@
+body {
+  background-color: #f1dad3;
+}
+
+.imgtxt {
+  display: flex;
+  align-items: center;
+}
+
+.imgtxt img {
+  margin-right: 20px; 
+  border-radius: 5px
+}
+
+.image-3 {
+  height: 180px;
+}
+
+.imgtxt p {
+  font-size: 20px;
+}	
+
+h1 {
+  text-align: center;
+  font-size: 42px;
+  color: #45bb0e;
+}
+
+h2 {
+  color: rgb(9, 32, 160);
+}
+
+h3 {
+  color: red;
+  font-size: 27px;
+}
+
+figure {
+  margin: 0.25em; 
+}
